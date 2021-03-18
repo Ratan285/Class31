@@ -1,0 +1,28 @@
+How you can store data?
+
+    Using variables and Const
+
+Types of data you can store
+1.  numbers
+2.  words--String 
+
+Special types of data
+1. Null --- Means nothing or empty
+2. Undefined-- no value assigned to variables.
+
+var x=0;// numbers
+var gameSTate = "server" //String
+
+var score = 0;
+
+score = score+1;
+
+
+var PLAY = 1;
+var gameState = PLAY; //storing a address
+
+
+
+
+
+
